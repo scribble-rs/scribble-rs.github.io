@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Scribble.rs</title>
+    <link>https://scribble-rs.github.io/</link>
+    <description>A blog with news about the Scribble.rs project.</description>
+    <managingEditor> (Marcel Schramm)</managingEditor>
+    <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+    <item>
+      <title>Welcome to the Scribble.rs blog</title>
+      <link>https://scribble-rs.github.io/articles/welcome.html</link>
+      <description>A blog with news about the Scribble.rs project.</description>
+      <content:encoded><![CDATA[<p>Welcome to our new blog!</p>
+
+<p>
+From time to time we'll be posting interesting updates about the project here.
+</p>
+
+<p>In order to stay updated, you can subscribe to our RSS feed over at <a href="https://scribble-rs.github.io/feed.xml">https://scribble-rs.github.io/feed.xml</a>.</p>]]></content:encoded>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
